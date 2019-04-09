@@ -1,0 +1,12 @@
+D:\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\Configure.cshtml
+D:\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\web.config
+D:\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+D:\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+D:\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+D:\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+D:\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+D:\nopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csproj.App.config
+D:\nopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache
+D:\nopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csproj.CoreCompileInputs.cache
+D:\nopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
+D:\nopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb
