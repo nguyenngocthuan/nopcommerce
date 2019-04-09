@@ -39,6 +39,7 @@ namespace Nop.Web.Controllers
         private readonly IPermissionService _permissionService;
         private readonly IBlogModelFactory _blogModelFactory;
         private readonly IEventPublisher _eventPublisher;
+        //test
 
         private readonly BlogSettings _blogSettings;
         private readonly LocalizationSettings _localizationSettings;
